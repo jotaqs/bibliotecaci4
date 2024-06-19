@@ -1,0 +1,1587 @@
+CRITICAL - 2024-04-23 12:11:19 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:12:03 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:54 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:58 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:59 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:59 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:59 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:15:59 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:05 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:06 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:06 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:06 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:06 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:07 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:07 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:07 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:07 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:07 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:08 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:08 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:12 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:12 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:12 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:12 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:13 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:13 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:13 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:13 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:14 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:14 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:14 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:14 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:14 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:15 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:15 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:15 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:15 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:16 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:16 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:16 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:16 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:17 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:17 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:18 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:19 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:18:19 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:21:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:21:51 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:41 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:42 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:42 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:42 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:43 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:44 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:45 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:45 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:45 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:45 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:46 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:46 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:46 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:46 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:46 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:47 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:47 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:47 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:47 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:48 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:49 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:49 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:49 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:49 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:49 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:50 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:50 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:50 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:50 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:50 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:51 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:51 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:52 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:52 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:52 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:52 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:53 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:54 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:54 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:54 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:54 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:55 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:56 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:27:57 --> Error: Class "App\Models\AlunoModel" not found
+in APPPATH/Controllers/Aluno.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Aluno->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+ERROR - 2024-04-23 12:39:09 --> mysqli_sql_exception: Table 'biblioteca.alunos' doesn't exist in /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/ci4_biblioteca/system/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 /opt/lampp/htdocs/ci4_biblioteca/system/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+#6 /opt/lampp/htdocs/ci4_biblioteca/app/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+#7 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(941): App\Controllers\Aluno->index()
+#8 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/ci4_biblioteca/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/ci4_biblioteca/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-04-23 12:39:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:39:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 6 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:39:09 --> [Caused by] mysqli_sql_exception: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 7 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+ERROR - 2024-04-23 12:39:35 --> mysqli_sql_exception: Table 'biblioteca.alunos' doesn't exist in /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/ci4_biblioteca/system/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 /opt/lampp/htdocs/ci4_biblioteca/system/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+#6 /opt/lampp/htdocs/ci4_biblioteca/app/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+#7 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(941): App\Controllers\Aluno->index()
+#8 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/ci4_biblioteca/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/ci4_biblioteca/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-04-23 12:39:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:39:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 6 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:39:35 --> [Caused by] mysqli_sql_exception: Table 'biblioteca.alunos' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 7 APPPATH/Controllers/Aluno.php(17): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:40:44 --> ErrorException: Undefined variable $listaUsuarios
+in APPPATH/Views/aluno/index.php on line 20.
+ 1 APPPATH/Views/aluno/index.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(20): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 12:52:35 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 8.
+ 1 APPPATH/Views/aluno/edit.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:00:27 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:01 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:02 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:02 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:03 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:03 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:04 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:04 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:04 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:04 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:04 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:05 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:05 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:05 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:05 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:05 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:06 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:06 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:06 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:01:06 --> ErrorException: Undefined variable $usuario
+in APPPATH/Views/aluno/edit.php on line 67.
+ 1 APPPATH/Views/aluno/edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/aluno/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Aluno.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Aluno->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 13:37:08 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH/BaseModel.php on line 1778.
+ 1 SYSTEMPATH/BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+ 2 SYSTEMPATH/BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray()
+ 3 SYSTEMPATH/Model.php(807): CodeIgniter\BaseModel->update()
+ 4 APPPATH/Controllers/Usuario.php(41): CodeIgniter\Model->update()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuario->salvar()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 16:35:06 --> Error: Class "App\Controllers\AutorModel" not found
+in APPPATH/Controllers/Autor.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Autor->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 16:35:25 --> Error: Class "App\Controllers\AutorModel" not found
+in APPPATH/Controllers/Autor.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Autor->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 16:39:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "autor/edit.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Autor.php(36): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Autor->editar()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 16:41:54 --> ErrorException: Undefined variable $aluno
+in APPPATH/Views/autor/edit.php on line 38.
+ 1 APPPATH/Views/autor/edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/ci4_biblioteca/app/Views/autor/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Autor.php(36): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Autor->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:01:44 --> Error: Class "App\Models\EditoraModel" not found
+in APPPATH/Controllers/Editora.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Editora->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:06 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:06 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:07 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:07 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:08 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:08 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:08 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:08 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:08 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:09 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:09 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:09 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:11 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:14 --> Error: Call to a member function findAll() on null
+in APPPATH/Controllers/Editora.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+ERROR - 2024-04-23 17:03:36 --> mysqli_sql_exception: Table 'biblioteca.editoras' doesn't exist in /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/ci4_biblioteca/system/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 /opt/lampp/htdocs/ci4_biblioteca/system/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+#6 /opt/lampp/htdocs/ci4_biblioteca/app/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+#7 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(941): App\Controllers\Editora->index()
+#8 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/ci4_biblioteca/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/ci4_biblioteca/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-04-23 17:03:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 6 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:36 --> [Caused by] mysqli_sql_exception: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 7 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+ERROR - 2024-04-23 17:03:40 --> mysqli_sql_exception: Table 'biblioteca.editoras' doesn't exist in /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/ci4_biblioteca/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/ci4_biblioteca/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/ci4_biblioteca/system/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 /opt/lampp/htdocs/ci4_biblioteca/system/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+#6 /opt/lampp/htdocs/ci4_biblioteca/app/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+#7 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(941): App\Controllers\Editora->index()
+#8 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/ci4_biblioteca/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/ci4_biblioteca/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/ci4_biblioteca/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-04-23 17:03:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 6 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-04-23 17:03:40 --> [Caused by] mysqli_sql_exception: Table 'biblioteca.editoras' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(638): CodeIgniter\Model->doFindAll()
+ 7 APPPATH/Controllers/Editora.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Editora->index()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')

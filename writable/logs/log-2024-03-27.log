@@ -1,0 +1,22 @@
+CRITICAL - 2024-03-27 11:03:41 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\UsuarioModel"
+in SYSTEMPATH/Model.php on line 766.
+ 1 SYSTEMPATH/Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH/BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert()
+ 3 SYSTEMPATH/Model.php(744): CodeIgniter\BaseModel->insert()
+ 4 SYSTEMPATH/BaseModel.php(713): CodeIgniter\Model->insert()
+ 5 APPPATH/Controllers/Usuario.php(26): CodeIgniter\BaseModel->save()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuario->cadastrar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-27 11:20:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "aluno_edit_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Usuario.php(31): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Usuario->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')

@@ -1,0 +1,217 @@
+CRITICAL - 2024-03-21 14:03:34 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:04:09 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:10:25 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:20:54 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:43 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:43 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:43 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:44 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:44 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:44 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:44 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:44 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:45 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:45 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:45 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:45 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:45 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:46 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:46 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:46 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:46 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:46 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:47 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:47 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:47 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:22:47 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:25:05 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:25:51 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:25:58 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:27:18 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
+CRITICAL - 2024-03-21 14:27:54 --> Error: Class "App\Models\UsuarioModel" not found
+in APPPATH/Controllers/Usuario.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\Usuario->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/ci4_biblioteca/public/index.php')
